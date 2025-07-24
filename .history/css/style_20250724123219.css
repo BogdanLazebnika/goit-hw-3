@@ -26,9 +26,5 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
-}
-
-.button-header:hover,
-.button-header:focus{
-    color: #404BBF;
+    text-decoration: none;
 }
