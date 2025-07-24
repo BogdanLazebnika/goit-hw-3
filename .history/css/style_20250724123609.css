@@ -41,9 +41,5 @@ address{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
 
-.contact-header:hover,
-.contact-header:focus{
-    color: #404BBF;
 }
