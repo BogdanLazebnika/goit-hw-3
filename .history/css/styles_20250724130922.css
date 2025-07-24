@@ -1,0 +1,79 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+
+.logo-header{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.logo-header span{
+    color: #2E2F42;
+}
+
+.button-header{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.button-header:hover,
+.button-header:focus{
+    color: #404BBF;
+}
+
+.address-header{
+    font-style: normal;
+}
+.contact-header{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contact-header:hover,
+.contact-header:focus{
+    color: #404BBF;
+}
+
+.hero{
+    background-color: #2E2F42;
+}
+
+.hero-header{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.hero-button{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #404BBF;
+    cursor: pointer;
+}
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF;
+}
+
+.visually-hidden{
+    d
+}
