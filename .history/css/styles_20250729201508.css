@@ -270,17 +270,8 @@ address ul{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
-
 .list-section-one{
     display: flex;
     gap: 24px;
     list-style: none;
-}
-
-.section-one-card{
-    width: calc((100% - 72px) / 4);
-}
-.header-section-one{
-    margin-bottom: 8px;
 }

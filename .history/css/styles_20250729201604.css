@@ -278,9 +278,4 @@ address ul{
     list-style: none;
 }
 
-.section-one-card{
-    width: calc((100% - 72px) / 4);
-}
-.header-section-one{
-    margin-bottom: 8px;
-}
+.section-one-card

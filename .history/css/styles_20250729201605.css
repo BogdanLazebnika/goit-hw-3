@@ -279,8 +279,5 @@ address ul{
 }
 
 .section-one-card{
-    width: calc((100% - 72px) / 4);
-}
-.header-section-one{
-    margin-bottom: 8px;
+    width: 264px;
 }
