@@ -179,55 +179,7 @@ body{
 
 
 
-/* Стилізація */
-
 .list-header{
     display: flex;
     gap: 40px;
-}
-
-img{
-    display: block;
-}
-
-
-.container{
-    width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
-}
-.header-container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-}
-
-.nav-header{
-    display: flex;
-    align-items: center;
-}
-
-.logo-header{
-    margin-right: 76px;
-
-}
-
-.list-header{
-    display: flex;
-    gap: 40px;
-    list-style: none;
-
-    
-}
-
-.button-header{
-    padding: 24px 0;
-    display: block;
-}
-address ul{
-    display: flex;
-    gap: 40px;
-    list-style: none;
 }

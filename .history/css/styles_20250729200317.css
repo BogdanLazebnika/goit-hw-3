@@ -200,7 +200,6 @@ img{
 .header-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
     
 }
 
@@ -218,7 +217,6 @@ img{
     display: flex;
     gap: 40px;
     list-style: none;
-
     
 }
 
@@ -226,8 +224,6 @@ img{
     padding: 24px 0;
     display: block;
 }
-address ul{
-    display: flex;
-    gap: 40px;
+address{
     list-style: none;
 }
