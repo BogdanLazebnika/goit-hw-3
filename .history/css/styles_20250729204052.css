@@ -355,17 +355,3 @@ address ul{
 }
 
 
-.footer{
-    padding: 100px 0;
-}
-
-.footer-logo{
-    display: inline-block;
-    margin: 0;
-    margin-bottom: 16px;
-}
-
-.paragraph-footer{
-    max-width: 264px;
-    margin: 0;
-}
