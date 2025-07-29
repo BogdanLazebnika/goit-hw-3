@@ -188,8 +188,6 @@ body{
 
 img{
     display: block;
-    max-width: 100%;
-    height: auto;
 }
 
 
@@ -341,15 +339,5 @@ address ul{
 
 
 .portfolio-card-overlay{
-    padding: 32px 16px;
-    border: 1px solid #E7E9FC;
-    border-top: none;
-}
-
-.header-portfolio{
-    margin: 0;
-    margin-bottom: 8px;
-}
-.paragraph-portfolio{
-    margin: 0;
+    
 }

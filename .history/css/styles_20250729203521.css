@@ -188,8 +188,7 @@ body{
 
 img{
     display: block;
-    max-width: 100%;
-    height: auto;
+    
 }
 
 
@@ -347,9 +346,5 @@ address ul{
 }
 
 .header-portfolio{
-    margin: 0;
     margin-bottom: 8px;
-}
-.paragraph-portfolio{
-    margin: 0;
 }
