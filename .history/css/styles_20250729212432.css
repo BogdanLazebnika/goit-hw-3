@@ -306,12 +306,10 @@ img{
 }
 
 .team-row-one{
-    margin: 0;
-    padding: 0;
     display: flex;
     gap: 24px;
     list-style: none;
-
+    
 }
 .team-card{
     flex-basis: calc((100% - 72px) / 4);
@@ -340,8 +338,6 @@ img{
 
 
 .portfolio-row-one{
-    margin: 0;
-    padding: 0;
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
