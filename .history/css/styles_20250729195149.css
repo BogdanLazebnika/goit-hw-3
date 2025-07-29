@@ -11,12 +11,7 @@ img{
 }
 
 
-.container{
-    width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
-}
+
 /* Header */
 .header{
     border-bottom: 1px solid #E7E9FC;
@@ -24,12 +19,7 @@ img{
 .header-container{
     display: flex;
     align-items: center;
-    
-}
-
-.nav-header{
-    display: flex;
-    align-items: center;
+    co
 }
 
 .logo-header{
