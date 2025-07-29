@@ -280,12 +280,10 @@ img{
     list-style: none;
 }
 
-.list-section-one li{
-    display: flex;
+.section-one-card{
     width: calc((100% - 72px) / 4);    
 }
 .section-one-card {
-    display: flex;
     width: calc((100% - 72px) / 4);
 }
 .header-section-one{
@@ -324,7 +322,7 @@ img{
 }
 
 
-.section-tree{
+.section-three{
     padding: 120px 0;
 }
 .header-section-tree{

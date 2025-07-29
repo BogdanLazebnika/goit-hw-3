@@ -285,7 +285,7 @@ img{
     width: calc((100% - 72px) / 4);    
 }
 .section-one-card {
-    display: flex;
+    
     width: calc((100% - 72px) / 4);
 }
 .header-section-one{
