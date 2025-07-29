@@ -236,19 +236,3 @@ address ul{
 .hero{
     padding: 188px 0;
 }
-
-
-.hero-header{
-    width: 496px;
-    margin: 0 auto;
-}
-
-.hero-button{
-    display: block;
-    min-width: 169px;
-    height: 56px;
-    border: none;
-    border-radius: 4px;
-    margin: 0 auto;
-    margin-top: 48px;
-}
